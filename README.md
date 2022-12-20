@@ -1,2 +1,2 @@
 # homepage
-content for homepages.uc.edu/!robireton
+content for homepages.uc.edu/~robireton
